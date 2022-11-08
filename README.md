@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/logo-img.webp" alt="CoyoTech Logo">
+  <img src="./logo-img.webp" alt="CoyoTech Logo">
 </p>
 
 
