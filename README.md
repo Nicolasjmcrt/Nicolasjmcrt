@@ -4,7 +4,7 @@
 
 
 # 👋 Hi, I’m Nicolas Jumeaucourt
-- 👀 I am interested in new technologies and more particularly web development
+### Web and mobile web developer. Web designer. PHP, JavaScript, Symfony.
 
 
 
